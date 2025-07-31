@@ -9,7 +9,7 @@ web rank web rank history Traffic Rank
 
 <a name="rank2traffic"></a>
 ## rank2traffic  
-![image](rank2traffic.hualesoft.cn-img.png)
+![image](rank2traffic.hualesoft.cn-img.jpg)
 
 Traffic and Rank history 
 By querying the website ranking changes over the years through web gateways (such as the Rank2Traffic platform, URL: https://rank2traffic.hualesoft.cn/webrank/rank2traffic), we can systematically analyze the website operation dynamics of competitors and provide key data support for optimizing our own website strategies. The following explanations are presented from three aspects: core value, operational logic, and application scenarios:
