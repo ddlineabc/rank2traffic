@@ -8,7 +8,7 @@ web rank web rank history Traffic Rank
 
 
 <a name="rank2traffic"></a>
-## rank2traffic 
+## rank2traffic  
 ![image](rank2traffic.hualesoft.cn-img.png)
 
 Traffic and Rank history 
